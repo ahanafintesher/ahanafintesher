@@ -41,8 +41,8 @@ I enjoy learning new technologies and improving my problem-solving skills.
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ahanafintesher&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=ahanafintesher&show_icons=true&theme=tokyonight)
 
-![streak](https://streak-stats.demolab.com?user=ahanafintesher&theme=radical)
+![streak](https://streak-stats.demolab.com?user=ahanafintesher&theme=tokyonight)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafintesher&layout=compact)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafintesher&layout=compact&theme=tokyonight)
