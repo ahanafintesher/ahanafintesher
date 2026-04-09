@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahanaf Intesher
+### 💻 Frontend Developer
 
-<!--
-**ahanafintesher/ahanafintesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🖼️ Banner
+![banner](https://your-banner-link.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+I am a passionate frontend developer who loves building modern and responsive web applications.  
+I enjoy learning new technologies and improving my problem-solving skills.
+
+---
+
+## 🚀 Current Activities
+- 🔭 I’m working on a React project
+- 🌱 I’m exploring Next.js
+- 💡 Learning advanced JavaScript
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
+<a href="https://tiktok.com/@yourprofile">TikTok</a> |
+<a href="https://snapchat.com/add/yourprofile">Snapchat</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
