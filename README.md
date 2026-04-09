@@ -4,8 +4,7 @@
 ---
 
 ## 🖼️ Banner
-![banner][(https://your-banner-link.com](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif))
-
+![banner][(https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif))
 ---
 
 ## 👨‍💻 About Me
