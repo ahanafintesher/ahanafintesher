@@ -32,7 +32,8 @@ I enjoy learning new technologies and improving my problem-solving skills.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/ahanafintesher">LinkedIn</a> |
+<a href="www.linkedin.com/in/ahanafintesher">LinkedIn</a> | 
+<a href="https://portfolio-eight-black-76g2a6w3zj.vercel.app/">Portfolio</a> | 
 <a href="https://www.facebook.com/share/1EGWe5vxcM/">Facebook</a> |
 
 </p>
