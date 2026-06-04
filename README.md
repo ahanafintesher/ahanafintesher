@@ -28,6 +28,19 @@ I enjoy learning new technologies and improving my problem-solving skills.
 </p>
 
 ---
+---
+---
+## 🏆 Best Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **⚽ SportsNest** | A modern sports platform for news, scores & live updates | React · Firebase · Tailwind | [Repo](https://github.com/ahanafintesher/sportsnest) · [Live](#) |
+| **🐄 QurbaniHat** | Eid ul-Adha livestock marketplace with live listings | React · Firebase · CSS | [Repo](https://github.com/ahanafintesher/qurbanihat) · [Live](#) |
+| **📓 Keen Keeper** | A clean note-keeping app with rich text & organisation | React · JavaScript · CSS | [Repo](https://github.com/ahanafintesher/keen-keeper) · [Live](#) |
+
+> 💡 Click **Live** to see the deployed project, or **Repo** to browse the code.
+---
+---
 
 ## 🌐 Connect With Me
 
