@@ -34,21 +34,20 @@ I enjoy learning new technologies and improving my problem-solving skills.
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **⚽ SportsNest** | A modern sports platform for news, scores & live updates | React · Firebase · Tailwind | [Repo](https://github.com/ahanafintesher/sportsnest) · [Live](#) |
-| **🐄 QurbaniHat** | Eid ul-Adha livestock marketplace with live listings | React · Firebase · CSS | [Repo](https://github.com/ahanafintesher/qurbanihat) · [Live](#) |
-| **📓 Keen Keeper** | A clean note-keeping app with rich text & organisation | React · JavaScript · CSS | [Repo](https://github.com/ahanafintesher/keen-keeper) · [Live](#) |
+| **⚽ SportsNest** | A modern sports platform for news, scores & live updates | React · Next.js · BetterAuth · HeroUI | [Repo](https://github.com/ahanafintesher/SportsNest) · [Live](https://sports-nest-ten.vercel.app/) |
+| **🐄 QurbaniHat** | Eid ul-Adha livestock marketplace with live listings |  React · Next.js · BetterAuth · DaisyUI | [Repo](https://github.com/ahanafintesher/Qurbanihat) · [Live](https://qurbanihat-teal.vercel.app/) |
+| **📓 Keen Keeper** | A clean note-keeping app with rich text & organisation | React · Next.js · TailwundCSS · DaisyUI  | [Repo](https://github.com/ahanafintesher/keen-keeper) · [Live](https://keen-keeper-xi-plum.vercel.app/) |
 
 > 💡 Click **Live** to see the deployed project, or **Repo** to browse the code.
 ---
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
-<a href="www.linkedin.com/in/ahanafintesher">LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/ahanafintesher">LinkedIn</a> | 
 <a href="https://portfolio-eight-black-76g2a6w3zj.vercel.app/">Portfolio</a> | 
 <a href="https://www.facebook.com/share/1EGWe5vxcM/">Facebook</a> |
-
+<a href="mailto:ahanafintesher01@gmail.com">Gmail</a>
 </p>
 
 ---
