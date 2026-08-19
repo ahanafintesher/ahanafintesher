@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahanaf Intesher
-### 💻 Frontend Developer from Bangladesh
+### 💻 Full Stack MERN Developer from Bangladesh
 
 ---
 
