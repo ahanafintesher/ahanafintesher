@@ -26,7 +26,7 @@ I enjoy learning new technologies and improving my problem-solving skills.
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn,nodejs,express,mongodb,postgres,prisma,git,github,vscode,gemini,claude,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vscode,gemini,claude,chatgpt" />
 </p>
 
 ---
