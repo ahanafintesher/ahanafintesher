@@ -4,7 +4,8 @@
 ---
 
 
-![banner](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/ed61cd2a-30a2-4c2d-bce3-bcf81d6a8ef3" />
+
 ---
 
 ## 👨‍💻 About Me
