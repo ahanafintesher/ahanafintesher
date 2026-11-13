@@ -14,10 +14,12 @@ I enjoy learning new technologies and improving my problem-solving skills.
 ---
 
 ## 🚀 Current Activities
-- 🔭 I’m working on a React project
-- 🌱 I’m exploring Next.js
-- 💡 Learning advanced JavaScript
-- 🎯 Goal: Become a Full Stack Developer
+
+- 🔭 Working on full-stack projects using **React.js, Next.js, and Node.js**
+- 🌱 Exploring **Next.js, TypeScript, and PostgreSQL**
+- 💡 Improving my skills in **Advanced JavaScript and Backend Development**
+- 🛠️ Building projects with **MongoDB, Express.js, and Prisma**
+- 🎯 Goal: Become a **Professional Full Stack Developer**
 
 ---
 
