@@ -8,8 +8,12 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate frontend developer who loves building modern and responsive web applications.  
-I enjoy learning new technologies and improving my problem-solving skills.
+
+I'm a passionate **Full Stack Developer** who enjoys building modern, responsive, and user-friendly web applications. I love turning creative ideas into real-world projects and continuously improving my coding and problem-solving skills.
+
+I enjoy exploring new technologies, learning through hands-on projects, and creating meaningful digital experiences.
+
+My goal is to become a skilled Full Stack Developer and build impactful solutions through technology.
 
 ---
 
