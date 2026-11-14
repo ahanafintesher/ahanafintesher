@@ -30,10 +30,41 @@ My goal is to become a skilled Full Stack Developer and build impactful solution
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vscode,gemini,claude,chatgpt" />
+## TECHNOLOGIES
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap" />
 </p>
 
+### Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+</p>
+
+### Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
+</p>
+
+### Design & Additional Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="48" alt="Socket.IO" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="48" alt="Stripe" />
+</p>
+
+---
 ---
 ---
 ---
