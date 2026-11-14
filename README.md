@@ -65,9 +65,7 @@ My goal is to become a skilled Full Stack Developer and build impactful solution
 </p>
 
 ---
----
----
----
+
 ## 🏆 Best Projects
 
 | Project | Description | Tech | Links |
